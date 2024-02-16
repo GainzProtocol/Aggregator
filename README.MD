@@ -32,7 +32,7 @@ test has capacity to execute trade on the Aggregator smart contract.
 
 ### Deployed Smart Contract:
 
-`https://goerli.etherscan.io/address/0x5c7e9d45e417301238020f8d19427fe1472d7a22`
+`https://testnet.blastscan.io/address/0x609dBD122A8a0ec3489A4A9bF22fC868A40E33c8`
 
 ### License
 

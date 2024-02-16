@@ -1,6 +1,6 @@
 require("@nomicfoundation/hardhat-toolbox");
 
-const RPC = "https://ethereum-goerli.publicnode.com";
+const RPC = "https://sepolia.blast.io";
 const PRIVATE_KEY = "-update-your-wallet-private-key-here-";
 
 /** @type import('hardhat/config').HardhatUserConfig */

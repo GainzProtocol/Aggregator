@@ -1,7 +1,7 @@
 const { ethers, BigNumber } = require("ethers");
 const { ChainId, Fetcher, Route, Trade, TokenAmount, TradeType, Percent, Token } = require("@uniswap/sdk");
 
-const provider = new ethers.providers.JsonRpcProvider("https://ethereum-goerli.publicnode.com");
+const provider = new ethers.providers.JsonRpcProvider("https://sepolia.blast.io");
 
 const walletPrivateKey = "-update-your-wallet-private-key-here-";
 const wallet = new ethers.Wallet(walletPrivateKey, provider);
